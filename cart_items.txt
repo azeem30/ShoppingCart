@@ -1,0 +1,2 @@
+Apple, 2, 20
+Pineapple, 5, 50
